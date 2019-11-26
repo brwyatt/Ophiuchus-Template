@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(
-    name="ophiucus-website",
+    name="ophiuchus-website",
     version="0.1.0",
     author="",
     author_email="",
