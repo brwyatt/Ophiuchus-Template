@@ -1,5 +1,5 @@
 # Ophiuchus-Template
-Template for Ophiuchus-based website
+Template for [Ophiuchus](https://github.com/brwyatt/Ophiuchus)-based website
 
 ## Development
 
